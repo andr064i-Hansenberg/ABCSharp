@@ -6,7 +6,7 @@ public class Car{
     private float _speed = 0f;
     internal int _revolutions = 0;
     
-    public List<Door> Doors;s
+    public List<Door> Doors;
     public List<Tire> Tires;
 
     #endregion
